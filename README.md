@@ -8,4 +8,4 @@
    - [GPU version](https://github.com/RobInLabUJI/MultilayerPerceptron/blob/main/Image_Classifier_Keras_TF_CNN_GPU.ipynb)
  * German Traffic Sign Recognition Benchmark:
    - [Training](https://github.com/RobInLabUJI/MultilayerPerceptron/blob/main/Traffic_Sign_Classification_Training.ipynb)
-   - [validation](https://github.com/RobInLabUJI/MultilayerPerceptron/blob/main/Traffic_Sign_Classification_Evaluation.ipynb)
+   - [Validation](https://github.com/RobInLabUJI/MultilayerPerceptron/blob/main/Traffic_Sign_Classification_Evaluation.ipynb)
